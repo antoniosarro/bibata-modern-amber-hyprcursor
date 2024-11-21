@@ -6,7 +6,7 @@ stdenv.mkDerivation (finalAttrs: {
     owner = "antoniosarro";
     repo = "bibata-modern-amber-hyprcursor";
     rev = "6503266674b3b30da20abd1d25b129129b02d89d";
-    sha256 = "sha256-3xAhGiYa+QqwwOzrpMs8KqrJEhMML6sddZYZfiSClug=";
+    sha256 = "sha256-q0isbGxlZzVXmOXujmywpGdOHSNHsUWaF5pVrQ4PVBs=";
   };
 
   installPhase = ''
