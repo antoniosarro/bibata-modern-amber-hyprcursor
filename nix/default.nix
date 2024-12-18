@@ -5,8 +5,8 @@ stdenv.mkDerivation (finalAttrs: {
   src = nixpkgs.fetchFromGitHub {
     owner = "antoniosarro";
     repo = "bibata-modern-amber-hyprcursor";
-    rev = "6503266674b3b30da20abd1d25b129129b02d89d";
-    sha256 = "sha256-q0isbGxlZzVXmOXujmywpGdOHSNHsUWaF5pVrQ4PVBs=";
+    rev = "55645dfe589c06f82f4d7d202a30708a1dff463c";
+    sha256 = "sha256-SDiEDwrjU/j1tm68lnfLYX9n6y06I5215Eksj83XNkg=";
   };
 
   installPhase = ''
